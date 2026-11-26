@@ -1,0 +1,2 @@
+# .github
+CKS Software Community
